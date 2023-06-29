@@ -1,0 +1,15 @@
+/Users/japineda/projects/fede4/bin/Debug/net7.0/fede4
+/Users/japineda/projects/fede4/bin/Debug/net7.0/fede4.deps.json
+/Users/japineda/projects/fede4/bin/Debug/net7.0/fede4.runtimeconfig.json
+/Users/japineda/projects/fede4/bin/Debug/net7.0/fede4.dll
+/Users/japineda/projects/fede4/bin/Debug/net7.0/fede4.pdb
+/Users/japineda/projects/fede4/obj/Debug/net7.0/fede4.csproj.AssemblyReference.cache
+/Users/japineda/projects/fede4/obj/Debug/net7.0/fede4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/japineda/projects/fede4/obj/Debug/net7.0/fede4.AssemblyInfoInputs.cache
+/Users/japineda/projects/fede4/obj/Debug/net7.0/fede4.AssemblyInfo.cs
+/Users/japineda/projects/fede4/obj/Debug/net7.0/fede4.csproj.CoreCompileInputs.cache
+/Users/japineda/projects/fede4/obj/Debug/net7.0/fede4.dll
+/Users/japineda/projects/fede4/obj/Debug/net7.0/refint/fede4.dll
+/Users/japineda/projects/fede4/obj/Debug/net7.0/fede4.pdb
+/Users/japineda/projects/fede4/obj/Debug/net7.0/fede4.genruntimeconfig.cache
+/Users/japineda/projects/fede4/obj/Debug/net7.0/ref/fede4.dll
