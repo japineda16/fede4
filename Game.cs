@@ -10,9 +10,11 @@ public class SnakeGame : IRenderable
     private Snake _snake;
     private Apple _apple;
 
-    /* `public SnakeGame()` is a constructor for the `SnakeGame` class. It creates a new instance of the
-    `Snake` class with an initial size of 5, creates a new instance of the `Apple` class using the
-    `CreateApple()` method, and sets the current and next directions to `Direction.Right`. */
+    /* 
+    `public SnakeGame()` es el metodo constructor de de la clase `SnakeGame`. Esta crea una nueva instancia
+    de la clase `Snake` con un tamaño de 5, tambien crea una instancia de `Apple`, usando el metodo
+    `CreateApple()`, y settea la actual y las proximas direcciones con  `Direction.Right`.
+    */
     public SnakeGame()
     {
         _snake = new Snake(Origin, initialSize: 5);
@@ -112,7 +114,7 @@ public class SnakeGame : IRenderable
     }
 
     /// <summary>
-    /// Esta funcion crea una instancia de la
+    /// Esta funcion crea una instancia de la manzana.
     /// </summary>
     private static Apple CreateApple()
     {

@@ -8,6 +8,8 @@ public class Snake : IRenderable
     private List<Position> _body;
     private int _growthSpurtsRemaining;
 
+    /* El metodo 'Snake' es el constructor de la clase del mismo nombre. Es responsable de inicializar
+    una nueva instancia de la clase, con un punto de spawn  y un tamaño inicial.*/
     public Snake(Position spawnLocation, int initialSize = 1)
     {
         _body = new List<Position> { spawnLocation };
